@@ -23,19 +23,19 @@ Tune Model Parameters
   
 Before starting to build models, I cleaned data, removed all null values, and took out any insignificant variables from the dataset.
 
-# First Model - K-Nearest Neighbors Model
+### First Model - K-Nearest Neighbors Model
 
 For this model, while k is 13, testing accuracy equals to 0.790
 
 
-# Second Model - Support Vector Machine Linear Classifier Model
+### Second Model - Support Vector Machine Linear Classifier Model
 
 Training Data Score: 0.8245204336947456
 Testing Data Score: 0.8199099549774888
 
 Test Accuracy: 0.823
 
-# Third Model - Deep Learning Model
+### Third Model - Deep Learning Model
 
 Model Loss: 0.29958380257087447 
 Model Accuracy: 0.8514257073402405
